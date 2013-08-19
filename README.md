@@ -1,0 +1,4 @@
+AutoClicker
+===========
+
+Automatically clicks. Repeatedly.
